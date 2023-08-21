@@ -13,7 +13,11 @@
 - 원하는 인원만 [구름톤 챌린지](https://level.goorm.io/l/challenge/goormthon-challenge)에서 매일 1문제 씩 푼다
 
 ### 소스코드 파일 이름
-- 파일 이름
+- 구름톤 챌린지
+  - Goormthon Challenge/Day00의 경로에 '이름.확장자'의 파일명
+  - ex) YunJi.js
+- 나머지의 파일 이름
+  - 문제이름.확장자
   - ex) 두 수의 차.js
 
 ### 커밋 컨벤션
