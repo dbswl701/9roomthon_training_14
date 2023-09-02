@@ -1,7 +1,7 @@
 function solution(bridge_length, weight, truck_weights) {
   var answer = 0;
   
-  let affordable_group=[];
+  // let affordable_group=[];
   
 //     //같이 다닐 수 있는 트럭의 idx 표시 / i번째 트럭은 truck_weight[i]번째 트럭과 같이 갈 수 있음.
 //     truck_weights.forEach((itm, idx)=>{
